@@ -1,0 +1,11 @@
+Run as administrator
+install cmake
+https://cmake.org/download/
+correct the path from enviromental variable.
+go to path
+double click on path and paste new path C:\Program Files\CMake
+pip install dlib
+pip install opencv-python
+pip install face_recognition
+pip install streamlit
+pip3 install setuptools
